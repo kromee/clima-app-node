@@ -1,0 +1,9 @@
+AIzaSyAffot1HbZB1Mjnau6_f5L4NYW5EpB-jw0 
+https://maps.googleapis.com/maps/api/geocode/json?address=1600+Amphitheatre+Parkway,+Mountain+View,+CA&key=YOUR_API_KEY
+
+
+
+
+https://home.openweathermap.org/api_keys
+40ad5f307fadc4f0335056ea878fed00
+metric api.openweathermap.org/data/2.5/find?q=London&units=metric
